@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!-- <bean id="messageService" class="com.practice.massage.SMSMassage"> -->
+<!-- <constructor-arg value="am passing constructor value from XML"></constructor-arg> -->
+<!-- <property name="a" value="am passing value from xml"></property> -->
+<!-- </bean> -->
+</beans>
