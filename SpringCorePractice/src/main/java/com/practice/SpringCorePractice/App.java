@@ -26,7 +26,6 @@ public class App
     	//MessageService msg=new TwitterMassage();  
     	//msg.sendMassage();
     	
-    	
 		/*
 		 * ApplicationContext context=new
 		 * ClassPathXmlApplicationContext("./spring.xml"); MessageService bean =
